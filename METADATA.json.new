@@ -1,0 +1,42 @@
+{
+  "name": "Open Sans Condensed",
+  "designer": "Steve Matteson",
+  "license": "Apache2",
+  "visibility": "External",
+  "category": "Sans Serif",
+  "size": 122270,
+  "fonts": [
+    {
+      "name": "Open Sans Condensed Light",
+      "style": "italic",
+      "weight": 300,
+      "filename": "OpenSansCondensedLight-Italic.ttf",
+      "postScriptName": "OpenSans-CondensedLightItalic",
+      "fullName": "Open Sans Condensed Light Italic",
+      "copyright": "Digitized data copyright (c) 2010-2011, Google Corporation."
+    },
+    {
+      "name": "Open Sans Condensed Light",
+      "style": "normal",
+      "weight": 300,
+      "filename": "OpenSansCondensedLight-Regular.ttf",
+      "postScriptName": "OpenSans-CondensedLight",
+      "fullName": "Open Sans Condensed Light",
+      "copyright": "Digitized data copyright (c) 2011, Google Corporation."
+    },
+    {
+      "name": "Open Sans Condensed Light",
+      "style": "normal",
+      "weight": 700,
+      "filename": "OpenSansCondensed-Bold.ttf",
+      "postScriptName": "OpenSans-CondensedBold",
+      "fullName": "Open Sans Condensed Bold",
+      "copyright": "Digitized data copyright (c) 2010-2011, Google Corporation."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2011-05-09"
+}

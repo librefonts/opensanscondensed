@@ -1,0 +1,6 @@
+commit: HEAD
+process_files: [OpenSans-CondBold.ttf.ttx, OpenSans-CondLightItalic.ttf.ttx, OpenSans-CondLight.ttf.ttx,
+  src/OpenSans-CondLighttalic.ttf.ttx, src/OpenSans-CondLight.ttf.ttx]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
